@@ -108,5 +108,5 @@ You are free to use, modify, and share this analysis with proper credit.
 ## 👨‍💻 Author
 
 Name: Mohd Fuzail
-Email: erfuzail01@gmail.com
+erfuzail01@gmail.com
 [GitHub](https://www.github.com/analystfuzail)
