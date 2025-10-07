@@ -1,7 +1,7 @@
 # 🎓 JEE Mains Top 30 Ranks (2013–2025) Data Analysis
 
-A comprehensive data analytics project exploring **JEE Mains results (2013–2025)** to uncover patterns, trends, and insights from India’s most competitive engineering entrance exam.  
-The project leverages **Python, Pandas, and Power BI** for cleaning, visualization, and statistical trend analysis.
+This project analyzes the **Top 30 ranks of JEE Mains from 2013 to 2025** to identify ranking trends, top-performing states/institutes, and yearly progress patterns.
+All analysis, cleaning, and visualization were performed using **Microsoft Excel.**
 
 ---
 
@@ -21,10 +21,8 @@ The project leverages **Python, Pandas, and Power BI** for cleaning, visualizati
 
 ---
 
-## 🛠️ Tools & Technologies
-- **Python (Pandas, NumPy, Matplotlib, Seaborn)** → Data cleaning, transformation, and analysis.  
-- **Power BI** → Interactive dashboard and storytelling visuals.  
-- **Excel** → Initial data preparation and validation.  
+## 🛠️ Tools & Technologies  
+- **Excel** → Data preparation, validation  and basic charts to visualize the future rank.
 
 ---
 
@@ -33,8 +31,6 @@ The project leverages **Python, Pandas, and Power BI** for cleaning, visualizati
 JEE-Mains-Top30-Analysis/
 │
 ├── data/                 # Raw and cleaned datasets (2013–2025)
-├── notebooks/            # Python notebooks for data analysis
-├── dashboard/            # Power BI (.pbix) dashboard file
 ├── visuals/              # Exported charts and visuals
 └── README.md             # Project documentation
 
@@ -58,8 +54,6 @@ Statistical Summary: Mean, median, and variance of top ranks per year.
 
 Year-over-Year Comparison: Detects shifts in competitiveness.
 
-Visualization Layers: Heatmaps, trend lines, and boxplots for clear insight delivery.
-
 ---
 
 ## 🧰 Methodology
@@ -70,11 +64,11 @@ Data Transformation → Calculated yearly aggregates and normalized score data.
 
 Exploratory Analysis → Identified correlations between ranks and scores.
 
-Visualization → Designed trend dashboards using Power BI and Matplotlib.
-
 ---
 
-## 📊 Dashboard Features
+## 📊 Visuals
+
+🗒️ Predict the Average Rank of year 2026
 
 📅 Yearly Rank Distribution
 
@@ -82,7 +76,6 @@ Visualization → Designed trend dashboards using Power BI and Matplotlib.
 
 🎯 Score vs Percentile Correlation
 
-🧾 Insights Cards summarizing year-wise statistics
 
 ---
 
@@ -94,7 +87,14 @@ Ability to process multi-year datasets
 
 Design of clear, data-driven insights
 
-End-to-end workflow from raw CSV to interactive dashboard
+End-to-end workflow from raw CSV to useful insights.
+
+---
+
+## 🏁 Conclusion
+
+The project demonstrates how Excel can be used for end-to-end data analysis—from cleaning to forecasting—without coding.
+Trends from 2013 to 2025 help understand rank distribution and predict future performance patterns in JEE Mains.
 
 ---
 
@@ -108,7 +108,5 @@ You are free to use, modify, and share this analysis with proper credit.
 ## 👨‍💻 Author
 
 Name: Mohd Fuzail
-
 Email: erfuzail01@gmail.com
-
 [GitHub](https://www.github.com/analystfuzail)
